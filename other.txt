@@ -1,3 +1,4 @@
 https://habr.com/ru/post/207160/
 
 test
+http://desktop.arcgis.com/ru/arcmap/10.3/tools/spatial-statistics-toolbox/what-is-a-z-score-what-is-a-p-value.htm
